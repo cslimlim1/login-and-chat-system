@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.Form1.resources
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.AssemblyInfo.vb
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.vbproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.exe
+C:\Users\PC\source\repos\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.deps.json
+C:\Users\PC\source\repos\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.runtimeconfig.json
+C:\Users\PC\source\repos\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.runtimeconfig.dev.json
+C:\Users\PC\source\repos\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.dll
+C:\Users\PC\source\repos\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.pdb
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.dll
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.pdb
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.genruntimeconfig.cache
+C:\Users\PC\source\repos\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.vbprojAssemblyReference.cache
